@@ -9,8 +9,8 @@ using namespace std;
 
 int main(int argc, char ** argv)
 {
-	int data1=3;
-	int data2=5;
+	int data1=10;
+	int data2=20;
 
 	int valeur1;
 	int valeur2;
